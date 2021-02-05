@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Stop Learning React
+          React 공식홈페이지로 이동하기
         </a>
       </header>
     </div>
